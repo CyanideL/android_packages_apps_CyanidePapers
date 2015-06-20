@@ -34,6 +34,9 @@
         <item>wallpaper_15</item>
         <item>wallpaper_16</item>
         <item>wallpaper_17</item>
+        <item>wallpaper_18</item>
+        <item>wallpaper_19</item>
+        <item>wallpaper_20</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -55,5 +58,8 @@
         <item>Wallpaper 15</item>
         <item>Wallpaper 16</item>
         <item>Wallpaper 17</item>
+        <item>Wallpaper 18</item>
+        <item>Wallpaper 19</item>
+        <item>Wallpaper 20</item>
     </string-array>
 </resources>
